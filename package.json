@@ -1,5 +1,5 @@
 {
-  "name": "project-4-login-START",
+  "name": "project-login-START",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -17,16 +17,16 @@
     "babel-core": "^6.26.3",
     "babel-loader": "^8.0.6",
     "babel-polyfill": "^6.26.0",
-    "css-loader": "^3.1.0",
+    "css-loader": "^3.6.0",
     "file-loader": "^4.1.0",
     "html-webpack-plugin": "^3.2.0",
     "mini-css-extract-plugin": "^0.8.0",
     "postcss-loader": "^3.0.0",
     "precss": "^4.0.0",
     "style-loader": "^0.23.1",
-    "webpack": "^4.39.1",
-    "webpack-cli": "^3.3.6",
-    "webpack-dev-server": "^3.7.2"
+    "webpack": "^4.47.0",
+    "webpack-cli": "^3.3.12",
+    "webpack-dev-server": "^3.11.3"
   },
   "dependencies": {
     "axios": "^0.19.0",
